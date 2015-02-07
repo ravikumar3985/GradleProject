@@ -1,0 +1,13 @@
+¶2015-02-07T16:47:36.409 | est worker | ClasspathStoryFinder | DEBUG  - Searching for stories called berlin-clock.story in [C:\Users\rpolipalli\IdeaProjects\Gradle\target\classes\test, C:\Users\rpolipalli\IdeaProjects\Gradle\target\resources\test, C:\Users\rpolipalli\IdeaProjects\Gradle\target\classes\main] 
+Þ2015-02-07T16:47:36.437 | est worker | aviouralTestEmbedder | DEBUG  - Running BehaviouralTestEmbedder with spring_stories [file:/C:/Users/rpolipalli/IdeaProjects/Gradle/target/resources/test/stories/berlin-clock.story] 
+!Processing system properties {}
+ÜUsing controls EmbedderControls[batch=false,skip=false,generateViewAfterStories=true,ignoreFailureInStories=false,ignoreFailureInView=false,verboseFailures=false,verboseFiltering=false,storyTimeoutInSecs=300,threads=1]
+nRunning story file:/C:/Users/rpolipalli/IdeaProjects/Gradle/target/resources/test/stories/berlin-clock.story
+ç
+(BeforeStories)
+
+
+(AfterStories)
+
+Generating reports view to 'C:\Users\rpolipalli\IdeaProjects\Gradle\target\classes\jbehave' using formats '[stats, html, console]' and view properties '{defaultFormats=stats, decorateNonHtml=true, viewDirectory=view, decorated=ftl/jbehave-report-decorated.ftl, reports=ftl/jbehave-reports-with-totals.ftl, maps=ftl/jbehave-maps.ftl, navigator=ftl/jbehave-navigator.ftl, views=ftl/jbehave-views.ftl, nonDecorated=ftl/jbehave-report-non-decorated.ftl}'
+hReports view generated with 0 stories (of which 0 pending) containing 0 scenarios (of which 0 pending)
